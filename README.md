@@ -9,7 +9,9 @@ Clone this repo and run following command for starting the mock server:
 ```
 npm install
 npm run start
+open in browser: http://localhost:3000
 # or
 yarn install
 yarn start
+open in browser: http://localhost:3000
 ```
